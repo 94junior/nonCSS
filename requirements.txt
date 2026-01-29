@@ -1,0 +1,6 @@
+streamlit
+supabase
+pandas
+xlsxwriter
+openpyxl
+python-dotenv
